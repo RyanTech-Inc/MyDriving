@@ -1,0 +1,3 @@
+MainPackage=C:\Users\domag\Source\Repos\MyDriving\src\MobileApps\MyDriving\MyDriving.UWP\bin\ARM\Debug\MyDriving.UWP_1.0.3.0_ARM_Debug.appx
+SymbolPackage=C:\Users\domag\Source\Repos\MyDriving\src\MobileApps\MyDriving\MyDriving.UWP\AppPackages\MyDriving.UWP_1.0.3.0_Debug_Test\MyDriving.UWP_1.0.3.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\domag\Source\Repos\MyDriving\src\MobileApps\MyDriving\MyDriving.UWP\bin\ARM\Debug\MyDriving.UWP_1.0.3.0_scale-100.appx

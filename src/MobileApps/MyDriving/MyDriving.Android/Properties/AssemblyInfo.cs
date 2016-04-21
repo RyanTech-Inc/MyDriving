@@ -10,7 +10,7 @@ using Android.App;
 [assembly: AssemblyTitle("MyDriving.Droid")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("RyanTech Cloud Services")]
 [assembly: AssemblyProduct("")]
 [assembly: AssemblyCopyright("joe")]
 [assembly: AssemblyTrademark("")]
